@@ -22,7 +22,14 @@ public final class R {
         public static final int activity_vertical_margin=0x7f040001;
     }
     public static final class drawable {
-        public static final int ic_launcher=0x7f020000;
+        public static final int about=0x7f020000;
+        public static final int face=0x7f020001;
+        public static final int fk=0x7f020002;
+        public static final int fool=0x7f020003;
+        public static final int ic_launcher=0x7f020004;
+        public static final int idiot=0x7f020005;
+        public static final int sb=0x7f020006;
+        public static final int setting=0x7f020007;
     }
     public static final class id {
         public static final int action_settings=0x7f080001;
