@@ -1,0 +1,656 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <question>
+        <title>当你某日想去一个地方,你会____?</title>
+
+        <A>事先计划好了，然后再去</A>
+
+        <B>先去，然后随机应变</B>
+    </question>
+    <question>
+        <title>如果你是一位老师,你愿教____?</title>
+
+        <A>注重实践的课程</A>
+
+        <B>注重理论的课程</B>
+    </question>
+    <question>
+        <title>遇到问题时，你通常喜欢_____?</title>
+
+        <A>和别人讨论解决方法</A>
+
+        <B>自己想办法解决</B>
+    </question>
+    <question>
+        <title>你认为____?</title>
+
+        <A>很早就应该开始为聚会，约会等做准备</A>
+
+        <B>不必先做准备，去了以后见机行事</B>
+    </question>
+    <question>
+        <title>你通常和____相处得更好?</title>
+
+        <A>喜欢想象的人</A>
+
+        <B>注重现实的人</B>
+    </question>
+    <question>
+        <title>你更多时候是____?</title>
+
+        <A>让情感驾驭理智</A>
+
+        <B>让理智驾驭情感</B>
+    </question>
+    <question>
+        <title>当你和一群人在一起时，你常常是更愿意____？</title>
+
+        <A>加入到大家的谈话中去</A>
+
+        <B>独自和熟识的人交谈</B>
+    </question>
+    <question>
+        <title>你最喜欢____做事情？</title>
+
+        <A>按兴致</A>
+
+        <B>按计划</B>
+    </question>
+    <question>
+        <title>你希望自己被看作是一个____？</title>
+
+        <A>实干家</A>
+
+        <B>发明家</B>
+    </question>
+    <question>
+        <title>当别人问你一个问题时，你经常会____?</title>
+
+        <A>马上就做回答</A>
+
+        <B>先在脑子里想一想</B>
+    </question>
+    <question>
+        <title>你喜欢与____打交道？</title>
+
+        <A>常有出人意料想法的人</A>
+
+        <B>按照常理行事的人</B>
+    </question>
+    <question>
+        <title>按日程表办事____？</title>
+
+        <A>正合你意</A>
+
+        <B>束缚了你</B>
+    </question>
+    <question>
+        <title>你觉得通常别人____？</title>
+
+        <A>要花很长的时间才能和你相熟</A>
+
+        <B>很快就能和你熟识</B>
+    </question>
+    <question>
+        <title>为“如何过周末”定一个计划____？</title>
+
+        <A>是有必要的</A>
+
+        <B>完全没必要</B>
+    </question>
+    <question>
+        <title>下列哪一个评价更适合你？</title>
+
+        <A>性情中人</A>
+
+        <B>理智的人</B>
+    </question>
+    <question>
+        <title>更多的时候，你倾向于____？</title>
+
+        <A>独处</A>
+
+        <B>同他人在一起</B>
+    </question>
+    <question>
+        <title>在日常工作中，你更喜欢____？</title>
+
+        <A>在时间紧迫的情况下，争分夺秒地工作</A>
+
+        <B>做好提前量，尽早把工作做完</B>
+    </question>
+    <question>
+        <title>你更愿把____作为朋友？</title>
+
+        <A>总能有新想法的人</A>
+
+        <B>脚踏实地的人</B>
+    </question>
+    <question>
+        <title>你是一个____？</title>
+
+        <A>兴趣广泛，什么都想尝试的人</A>
+
+        <B>专注的投入某个兴趣的人</B>
+    </question>
+    <question>
+        <title>当你有一项特别的工作要做时，你喜欢先____？</title>
+
+        <A>察看到工作的全貌</A>
+
+        <B>找出必须要做的环节</B>
+    </question>
+    <question>
+        <title>你更接受____？</title>
+
+        <A>以情动人</A>
+
+        <B>以理服人</B>
+    </question>
+    <question>
+        <title>当你为了消遣而阅读时，你____？</title>
+
+        <A>欣赏作者奇特、独创的表达</A>
+
+        <B>喜欢作者的表达直接、明确</B>
+    </question>
+    <question>
+        <title>新认识你的人____了解到你的兴趣所在？</title>
+
+        <A>马上就能</A>
+
+        <B>只有真正和你熟悉以后才能</B>
+    </question>
+    <question>
+        <title>在旅行时，你喜欢____？</title>
+
+        <A>随兴致行事</A>
+
+        <B>事先知道一天中该做的事</B>
+    </question>
+    <question>
+        <title>做许多人都做的事时，你喜欢____？</title>
+
+        <A>按惯例去做</A>
+
+        <B>发明自己的新方法</B>
+    </question>
+    <question>
+        <title>多数人说你是一个____？</title>
+
+        <A>不爱吐露心事的人</A>
+
+        <B>非常坦率的人</B>
+    </question>
+    <question>
+        <title>你更倾向于？</title>
+
+        <A>看不见的</A>
+
+        <B>看的见的</B>
+    </question>
+    <question>
+        <title>你更倾向于？</title>
+
+        <A>计划</A>
+
+        <B>随意</B>
+    </question>
+    <question>
+        <title>你更倾向于？</title>
+
+        <A>温情</A>
+
+        <B>坚定</B>
+    </question>
+    <question>
+        <title>你更倾向于？</title>
+
+        <A>事实</A>
+
+        <B>想法</B>
+    </question>
+    <question>
+        <title>你更倾向于？</title>
+
+        <A>思维</A>
+
+        <B>情感</B>
+    </question>
+    <question>
+        <title>你更倾向于？</title>
+
+        <A>热忱</A>
+
+        <B>平静</B>
+    </question>
+    <question>
+        <title>你更倾向于？</title>
+
+        <A>说服</A>
+
+        <B>打动</B>
+    </question>
+    <question>
+        <title>你更倾向于？</title>
+
+        <A>陈述</A>
+
+        <B>概念</B>
+    </question>
+    <question>
+        <title>你更倾向于？</title>
+
+        <A>分析</A>
+
+        <B>同情</B>
+    </question>
+    <question>
+        <title>你更倾向于？</title>
+
+        <A>系统性</A>
+
+        <B>随机性</B>
+    </question>
+    <question>
+        <title>你更倾向于？</title>
+
+        <A>敏感</A>
+
+        <B>精确</B>
+    </question>
+    <question>
+        <title>你更倾向于？</title>
+
+        <A>缄默</A>
+
+        <B>健谈</B>
+    </question>
+    <question>
+        <title>你更倾向于？</title>
+
+        <A>常识性的</A>
+
+        <B>理论性的</B>
+    </question>
+    <question>
+        <title>你更倾向于？</title>
+
+        <A>侠肝义胆</A>
+
+        <B>深谋远虑</B>
+    </question>
+    <question>
+        <title>你更倾向于？</title>
+
+        <A>正式</A>
+
+        <B>非正式</B>
+    </question>
+    <question>
+        <title>你更倾向于？</title>
+
+        <A>沉静</A>
+
+        <B>活跃</B>
+    </question>
+    <question>
+        <title>你更倾向于？</title>
+
+        <A>利益</A>
+
+        <B>祝福</B>
+    </question>
+    <question>
+        <title>你更倾向于？</title>
+
+        <A>理论性</A>
+
+        <B>确定性</B>
+    </question>
+    <question>
+        <title>你更倾向于？</title>
+
+        <A>坚定的</A>
+
+        <B>忠诚的</B>
+    </question>
+    <question>
+        <title>你更倾向于？</title>
+
+        <A>理想</A>
+
+        <B>现实</B>
+    </question>
+    <question>
+        <title>你更倾向于？</title>
+
+        <A>雄心</A>
+
+        <B>柔肠</B>
+    </question>
+    <question>
+        <title>你更倾向于？</title>
+
+        <A>想象中的</A>
+
+        <B>事实上的</B>
+    </question>
+    <question>
+        <title>你更倾向于？</title>
+
+        <A>冷静的</A>
+
+        <B>激情的</B>
+    </question>
+    <question>
+        <title>你更倾向于？</title>
+
+        <A>制作</A>
+
+        <B>创造</B>
+    </question>
+    <question>
+        <title>你更倾向于？</title>
+
+        <A>热情的</A>
+
+        <B>中立的</B>
+    </question>
+    <question>
+        <title>你更倾向于？</title>
+
+        <A>明理的</A>
+
+        <B>迷人的</B>
+    </question>
+    <question>
+        <title>你更倾向于？</title>
+
+        <A>有同情心</A>
+
+        <B>有逻辑头脑</B>
+    </question>
+    <question>
+        <title>你更倾向于？</title>
+
+        <A>生产</A>
+
+        <B>设计</B>
+    </question>
+    <question>
+        <title>你更倾向于？</title>
+
+        <A>冲动</A>
+
+        <B>决择</B>
+    </question>
+    <question>
+        <title>你更倾向于？</title>
+
+        <A>公正的</A>
+
+        <B>体谅的</B>
+    </question>
+    <question>
+        <title>你更倾向于？</title>
+
+        <A>安静的</A>
+
+        <B>爱交际的</B>
+    </question>
+    <question>
+        <title>你更倾向于？</title>
+
+        <A>理性</A>
+
+        <B>感性</B>
+    </question>
+    <question>
+        <title>你更倾向于？</title>
+
+        <A>不受限制的</A>
+
+        <B>安排好的</B>
+    </question>
+    <question>
+        <title>你更倾向于？</title>
+
+        <A>具体</A>
+
+        <B>抽象</B>
+    </question>
+    <question>
+        <title>你更倾向于？</title>
+
+        <A>能干的</A>
+
+        <B>细腻的</B>
+    </question>
+    <question>
+        <title>你更倾向于？</title>
+
+        <A>开放</A>
+
+        <B>私密</B>
+    </question>
+    <question>
+        <title>你更倾向于？</title>
+
+        <A>建造</A>
+
+        <B>发明</B>
+    </question>
+    <question>
+        <title>你更倾向于？</title>
+
+        <A>有序的</A>
+
+        <B>随便的</B>
+    </question>
+    <question>
+        <title>你更倾向于？</title>
+
+        <A>想象</A>
+
+        <B>现实</B>
+    </question>
+    <question>
+        <title>你更倾向于？</title>
+
+        <A>好胜的</A>
+
+        <B>好心的</B>
+    </question>
+    <question>
+        <title>你更倾向于？</title>
+
+        <A>理论</A>
+
+        <B>事实</B>
+    </question>
+    <question>
+        <title>你更倾向于？</title>
+
+        <A>很少的朋友</A>
+
+        <B>很多的朋友</B>
+    </question>
+    <question>
+        <title>你更倾向于？</title>
+
+        <A>可能</A>
+
+        <B>确知</B>
+    </question>
+    <question>
+        <title>你更倾向于？</title>
+
+        <A>宽容的</A>
+
+        <B>坚决的</B>
+    </question>
+    <question>
+        <title>你更倾向于？</title>
+
+        <A>新异的</A>
+
+        <B>已知的</B>
+    </question>
+    <question>
+        <title>你更倾向于？</title>
+
+        <A>温柔</A>
+
+        <B>力量</B>
+    </question>
+    <question>
+        <title>你更倾向于？</title>
+
+        <A>实用</A>
+
+        <B>创新</B>
+    </question>
+    <question>
+        <title>和一群人在一起聚会通常会让你感到____？</title>
+
+        <A>兴致勃勃</A>
+
+        <B>筋疲力尽</B>
+    </question>
+    <question>
+        <title>你在做一个决定时，更多地会____？</title>
+
+        <A>权衡实际的得失</A>
+
+        <B>考虑其他人的感受</B>
+    </question>
+    <question>
+        <title>通常你更喜欢____？</title>
+
+        <A>提前安排好该做什么</A>
+
+        <B>到时候率性而为</B>
+    </question>
+    <question>
+        <title>当你一个人在家时，你____?</title>
+
+        <A>能够沉静在自己的思维中</A>
+
+        <B>总觉的应该做点什么事情</B>
+    </question>
+    <question>
+        <title>多数情况下，你____？</title>
+
+        <A>随兴致做事</A>
+
+        <B>按日程表做事</B>
+    </question>
+    <question>
+        <title>你通常____？</title>
+
+        <A>容易和大家打成一片</A>
+
+        <B>独处的时候更多</B>
+    </question>
+    <question>
+        <title>你做事更倾向于____？</title>
+
+        <A>等到各方面的信息都全了以后再做计划</A>
+
+        <B>提前很久就定计划</B>
+    </question>
+    <question>
+        <title>别人____交上朋友？</title>
+
+        <A>容易和你</A>
+
+        <B>较难和你</B>
+    </question>
+    <question>
+        <title>你通常喜欢上____的课程？</title>
+
+        <A>探讨理论和概念</A>
+
+        <B>列举事实和图表</B>
+    </question>
+    <question>
+        <title>在聚会时，你____？</title>
+
+        <A>说的时候多</A>
+
+        <B>听的时候多</B>
+    </question>
+    <question>
+        <title>你觉的自己更倾向于是一个____？</title>
+
+        <A>随意的人</A>
+
+        <B>有秩序的人</B>
+    </question>
+    <question>
+        <title>你____？</title>
+
+        <A>只同那些兴趣相同的人才能长谈</A>
+
+        <B>只要愿意，和任何人都可以长聊</B>
+    </question>
+    <question>
+        <title>当你有一个报告需要在一个星期内交出时，你____？</title>
+
+        <A>常留出足够的时间并能提早完成</A>
+
+        <B>常常是在最后一刻及时赶出来</B>
+    </question>
+    <question>
+        <title>哪一个对你来说是更高的评价？</title>
+
+        <A>有好胜心的</A>
+
+        <B>有同情心的</B>
+    </question>
+    <question>
+        <title>你觉得按日程表办事____？</title>
+
+        <A>虽有必要，但不喜欢</A>
+
+        <B>有帮助的，非常喜欢</B>
+    </question>
+    <question>
+        <title>你更愿在一个____的老板手下工作？？</title>
+
+        <A>态度亲切，但有时会感情用事</A>
+
+        <B>态度严厉，但始终按逻辑办事</B>
+    </question>
+    <question>
+        <title>在完成一项大任务时，你常常是____？</title>
+
+        <A>边做边考虑下一步</A>
+
+        <B>事先想好每个步骤</B>
+    </question>
+    <question>
+        <title>在社交场合，你通常觉得____？</title>
+
+        <A>很难和不认识的人进行交谈</A>
+
+        <B>很容易和多数人谈笑风生</B>
+    </question>
+    <question>
+        <title>你常常是____？</title>
+
+        <A>按已经有效的方法做事</A>
+
+        <B>尝试一下有没有更好的办法</B>
+    </question>
+    <question>
+        <title>你更喜欢按____做事情？</title>
+
+        <A>当天的感觉</A>
+
+        <B>已订好的日程表</B>
+    </question>
+
+</resources>

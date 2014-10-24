@@ -1,4 +1,6 @@
-package com.galaxystudio.fkyou;
+package com.galaxystudio.fkyou.ui;
+
+import com.galaxystudio.fkyou.MainActivity;
 
 import net.muststudio.util.guiitemlib.ui.BitmapPainter;
 import net.muststudio.util.guiitemlib.ui.BlockedBackToRemoveGuiItemContainer;

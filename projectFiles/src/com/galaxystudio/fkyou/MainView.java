@@ -2,6 +2,9 @@ package com.galaxystudio.fkyou;
 
 import com.galaxystudio.fkyou.R;
 import com.galaxystudio.fkyou.ui.BitmapButton;
+import com.galaxystudio.fkyou.ui.EditGuiItem;
+import com.galaxystudio.fkyou.ui.GalleryGuiItem;
+import com.galaxystudio.fkyou.ui.QuestionGuiItem;
 
 import android.content.Context;
 import android.graphics.Bitmap;
@@ -40,22 +43,21 @@ public class MainView extends SurfaceViewFrame {
 							addTo(new EditGuiItem());
 						}
 					}));
-//			addToList(new BitmapButton(new RelativePoint(1, 0.4, false), new RelativePoint(0.5, 0.4
-//					+ 0.5 / button2.getWidth() * button2.getHeight(), false), button2)
-//					.setTask(new Task() {
-//						@Override
-//						public void task() {
-//							// addTo(new BluetoothGuiItem());
-//						}
-//					}));
-//			addToList(new BitmapButton(new RelativePoint(1, 0.4, false), new RelativePoint(0.5, 0.4
-//					+ 0.5 / button2.getWidth() * button2.getHeight(), false), button2)
-//					.setTask(new Task() {
-//						@Override
-//						public void task() {
-//							// addTo(new BluetoothGuiItem());
-//						}
-//					}));
+			addToList(new BitmapButton(new RelativePoint(0, 0), new RelativePoint(1, 0.2),
+					BitmapHolder.getInstance().getBitmap(R.drawable.invisible)).setTask(new Task() {
+				@Override
+				public void task() {
+					 addTo(new GalleryGuiItem());
+				}
+			}));
+			addToList(new BitmapButton(new RelativePoint(0, 0.4, false), new RelativePoint(1, 0.3,
+					false), BitmapHolder.getInstance().getBitmap(R.drawable.invisible))
+					.setTask(new Task() {
+						@Override
+						public void task() {
+							addTo(new QuestionGuiItem(MainActivity.act.phraser));
+						}
+					}));
 			addToList(new BitmapButton(new RelativePoint(0.85, 0.25, false), new RelativePoint(0.6,
 					0.25 + 0.25 / settingButton.getWidth() * settingButton.getHeight(), false),
 					settingButton).setTask(new Task() {
